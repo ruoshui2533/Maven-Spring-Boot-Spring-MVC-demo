@@ -1,0 +1,10 @@
+springframework\services\ProductServiceImpl.class
+springframework\SpringBootWebApplication.class
+springframework\bootstrap\ProductLoader.class
+springframework\controllers\ProductController.class
+springframework\controllers\IndexController.class
+springframework\domain\Product.class
+springframework\configuration\SecurityConfiguration.class
+springframework\configuration\WebConfiguration.class
+springframework\repositories\ProductRepository.class
+springframework\services\ProductService.class
